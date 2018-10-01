@@ -1,0 +1,5 @@
+int8 count
+int16[] pos
+int16[] vel
+---
+bool result

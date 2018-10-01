@@ -9,6 +9,7 @@ find_package(catkin REQUIRED COMPONENTS
 add_service_files(
   FILES
   MoveMotor.srv
+  MoveAllMotor.srv
   Torque.srv
   TorqueAll.srv
 )
